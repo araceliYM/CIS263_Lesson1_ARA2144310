@@ -1,0 +1,12 @@
+Araceli Miranda
+CIS263 Java Programming II
+May 2, 2024
+
+For this class I decided to use jGrasp as an Integrated Development Environment. I
+spent a lot of time deliberating on which IDE to use. I researched multiple
+options and found a lot of pros and cons for a lot of different IDEs. jGrasp is
+typically described as a user-friendly, easy-to-learn software. The fact that
+jGrasp is commonly used in education environments swayed my decision. This IDE
+provides syntax highlighting, code navigation, and UML visualization capabilities.
+Ultimately, I chose this IDE because I believe using it will give me a solid
+foundation in the fundamentals of using IDEs.

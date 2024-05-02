@@ -1,0 +1,33 @@
+Araceli Miranda
+CIS263 Java Programming II
+May 2, 2024
+
+   A GitHub portfolio allows developers to showcase their skills, previous
+experience, projects, and achievements. A portfolio's purpose is to advertise
+yourself to potential clients or employers. I plan to use GitHub and GitHub pages
+to create my portfolio. GitHub Pages is an addition to GitHub that allows
+developers to design websites. Using the pages feature will allow me to produce a
+well-curated compilation of all the information I believe will be necessary for
+future employers. 
+
+   Several important design components combine to make an excellent portfolio.
+Most importantly, having your user interface well-organized, simplistic, and 
+user-friendly will allow your portfolio to stand out. The data you emphasize on
+your page is crucial for crafting an exceptional portfolio. Personally, I have
+decided to include an about me section, contact details, skills, projects, and
+achievements. Using GitHub pages, I plan to create a website portfolio that will
+assist in future job searches. GitHub pages will allow me to design and organize a
+user interface that showcases my skills and achievements.
+
+   By using different features of GitHub Pages, I can design a homepage that
+includes an ‘about me’ section. My home page could also contain a menu listing and
+links to the various other features of my portfolio. Menu items could include
+Skills and Achievements, Projects, and Testimonials. On the Skills and
+Achievements page, I can include a graphical item list displaying my list of
+skills. I could also do a creative icon display featuring my achievements. For the
+Projects page, I could include snapshots of example code, interfaces I’ve
+designed, and projects curated for specific employers. The Projects page is to be
+updated and curated based on project design, implementation, and the intended
+audience. Finally,  the testimonials could include references and client views
+displayed in a well-organized manner. In conclusion,  I plan to use GitHub and
+GitHub Pages to design and implement a well-made, creative portfolio. 

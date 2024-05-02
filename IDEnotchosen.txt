@@ -1,0 +1,15 @@
+Araceli Miranda
+CIS263 Java Programming II
+May 1, 2024
+
+ Eclipse is a widely used Integrated Development Environment among JAVA developers.
+In addition to JAVA, this IDE supports additional languages, such as C, C++, and 
+Python. This free and open-source IDE uses a modern interface and is available 
+for multiple operating systems. Eclipse is popular among developers because of 
+its numerous features like syntax highlighting, code completion, code refactoring,
+debugging, and unit testing. When choosing an IDE, I did consider using this one.
+However, I decided to use jGrasp instead. I avoided using Eclipse for multiplreasons. Mainly, I have previous experience with jGrasp and am confident in 
+operating it. In researching various forums, I found that many users believe 
+Eclipse could be more user-friendly and tend to have multiple bugs. When deciding,
+I chose not to use Eclipse due to the reviews of other users and my comfortability
+with other IDEs.
